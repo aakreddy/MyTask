@@ -1,0 +1,9 @@
+{
+	"name": "ABR",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd53c378-2953-4ac7-8074-ba9007a8427a",
+		"tenantId": "01e6678e-8a55-430b-8060-d4984c9e1225"
+	}
+}
